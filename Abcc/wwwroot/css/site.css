@@ -1,0 +1,40 @@
+/* Add your custom styles here */
+body {
+    padding: 2px;
+    border-radius:20%;
+     /* Adjust based on your navbar height */
+}
+.container-fluid-left{
+    background-color:burlywood;
+    margin-top:0px;
+    height:100px;
+
+}
+.sidebar {
+    padding-top: 40px;
+    width: auto;
+    height: 200vh;
+    position: fixed;
+}
+
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size:150%;
+    padding:20px;
+    margin:1px;
+    text-align:left;
+}
+.nav-link:hover {
+    background-color: #04AA6D;
+    color: white;
+}
+.flatecen{
+    padding-top:20px;
+    text-decoration:none;
+    list-style:none;
+}
+
+
+
+/* Add more styles as needed */
